@@ -1,0 +1,12 @@
+---
+:id: 185530948
+:submitters:
+- :name: James McGillicuddy
+  :email: jmcgillicudd@umass.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-07-31 02:46:38.206661000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-07-30 19:46:38.206661000 Z
+:status: processed
+:score: 88.0
